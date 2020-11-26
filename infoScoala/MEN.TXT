@@ -1,0 +1,12 @@
+Element
+Linie
+Coloana
+Parcuregere pe linii
+Parcurgere pe coloane
+Diagonala principala
+Diagonala secundara
+Sub diagonala principala
+Deasupra diag. principala
+Sub diagonala seeundara
+Deasupra diag. secundara
+Iesire
